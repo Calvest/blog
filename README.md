@@ -15,7 +15,7 @@ $ npm install -g gatsby-cli
 
 $ npm install
 
-$ gatsby develop
+$ npm run develop
 ```
 
 ## License
