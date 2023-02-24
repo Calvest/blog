@@ -2,8 +2,8 @@ import * as React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
-import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Layout from "../components/layout"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -20,8 +20,10 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
+
           <p>{post.frontmatter.date}</p>
         </header>
+        
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
