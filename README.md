@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-这是我的个人博客，使用 [Gatsby](https://www.gatsbyjs.com/) 构建， 参考 [overreacted.io](https://overreacted.io/) 样式，适配简体中文。
+This is my personal blog, build with [Gatsby](https://www.gatsbyjs.com/), refer to [overreacted.io](https://overreacted.io/) style.
 
 ## Install
 
