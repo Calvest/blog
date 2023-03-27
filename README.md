@@ -1,23 +1,6 @@
-# 代码游记 [codetravel.io](https://codetravel.io/)
+# Today I Learned
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-This is my personal blog, build with [Gatsby](https://www.gatsbyjs.com/), refer to [overreacted.io](https://overreacted.io/) style.
-
-## Install
-
-```sh
-$ git clone git@github.com:karlwesten/codetravel.io.git
-
-$ cd codetravel.io
-
-$ npm install -g gatsby-cli
-
-$ npm install
-
-$ npm run develop
-```
-
-## License
-
-[MIT](LICENSE) © Karl Westen
+* 每篇文章尽量限制在 200 字以内
+* 不引入更复杂的内容
+* 用自己的思维阐述每一个知识点
+* 在工作中完成
