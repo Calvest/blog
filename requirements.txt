@@ -1,5 +1,0 @@
-PyGithub
-requests
-xpinyin
-feedgen
-Jinja2
